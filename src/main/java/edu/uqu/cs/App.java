@@ -21,9 +21,7 @@ public class App
     {
         int y=9;
         String s="ali";
-        System.out.println( "Hello mohammad!" +y);
-        System.out.println("welcome"+s);
-        System.out.println(y+"value");
-        System.out.println("gfgfs");
+        System.out.println( "Hello Mohammad!" +"443012930");
+      
     }
 }
