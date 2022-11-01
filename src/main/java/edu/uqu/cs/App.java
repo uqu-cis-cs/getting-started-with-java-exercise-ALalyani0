@@ -19,9 +19,8 @@ public class App
 {
     public static void main( String[] args )
     {
-        int y=9;
-        String s="ali";
-        System.out.println( "Hello Mohammad!" +"443012930");
+        
+        System.out.println( "Hello: Mohammad" +"443012930");
       
     }
 }
